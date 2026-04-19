@@ -70,6 +70,8 @@ export default function Signup(){
 
        </form>
 
+       <form>Salman khan</form>
+
       </div>
       </div>
     );
